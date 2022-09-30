@@ -45,7 +45,7 @@
     "bootstrap": "^4.4.1",
     "core-js": "^3.4.7",
     "d2-utilizr": "^0.2.16",
-    "d3-color": "^1.4.0",
+    "d3-color": "^3.1.0",
     "d3-scale": "^3.2.1",
     "d3-time-format": "^2.2.2",
     "dexie": "^3.2.2",
